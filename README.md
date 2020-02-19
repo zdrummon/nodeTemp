@@ -27,7 +27,7 @@ node experiment space
 12. Press "Ctrl + Shift + G" and click the check mark at the top
 12. Press "Save All & Commit" and add the message "first commit"
 14. Click on the hamburger icon at the top right and select "Publish Branch"
-15. Bonus: make a shortcut and go to its properties and replace the target path with "C:\Windows\System32\bash.exe -c "code"" to create a shortcut for VSC WSL
+15. Bonus: make a shortcut   and go to its properties and replace the target path with "C:\Windows\System32\bash.exe -c "code"" to create a shortcut for VSC WSL
 16. Bonus: search for and install these extensions-
 <br>A. ESLint
 <br>B. GitLens
