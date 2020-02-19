@@ -32,3 +32,8 @@ node experiment space
 <br>A. ESLint
 <br>B. GitLens
 <br>C. REST Client
+
+# Running express:
+17. Type node bin/www in terminal
+18. Type http://localhost:3000/ in your browser
+19. Tada! You have a working system. Press ctrl + C in terminal to end the server
